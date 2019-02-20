@@ -1,0 +1,14 @@
+C:\Users\Fam McG\Documents\Visual Studio 2017\Projects\Programmeren\Programmeren\bin\Debug\Programmeren.exe.config
+C:\Users\Fam McG\Documents\Visual Studio 2017\Projects\Programmeren\Programmeren\bin\Debug\Programmeren.exe
+C:\Users\Fam McG\Documents\Visual Studio 2017\Projects\Programmeren\Programmeren\bin\Debug\Programmeren.pdb
+C:\Users\Fam McG\Documents\Visual Studio 2017\Projects\Programmeren\Programmeren\obj\Debug\Programmeren.csprojAssemblyReference.cache
+C:\Users\Fam McG\Documents\Visual Studio 2017\Projects\Programmeren\Programmeren\obj\Debug\Programmeren.csproj.CoreCompileInputs.cache
+C:\Users\Fam McG\Documents\Visual Studio 2017\Projects\Programmeren\Programmeren\obj\Debug\Programmeren.exe
+C:\Users\Fam McG\Documents\Visual Studio 2017\Projects\Programmeren\Programmeren\obj\Debug\Programmeren.pdb
+C:\Users\Quinn\Desktop\Programmeren\Programmeren\bin\Debug\Programmeren.exe.config
+C:\Users\Quinn\Desktop\Programmeren\Programmeren\bin\Debug\Programmeren.exe
+C:\Users\Quinn\Desktop\Programmeren\Programmeren\bin\Debug\Programmeren.pdb
+C:\Users\Quinn\Desktop\Programmeren\Programmeren\obj\Debug\Programmeren.csprojAssemblyReference.cache
+C:\Users\Quinn\Desktop\Programmeren\Programmeren\obj\Debug\Programmeren.csproj.CoreCompileInputs.cache
+C:\Users\Quinn\Desktop\Programmeren\Programmeren\obj\Debug\Programmeren.exe
+C:\Users\Quinn\Desktop\Programmeren\Programmeren\obj\Debug\Programmeren.pdb
